@@ -17,5 +17,5 @@
 
 • GitHub Stats 🎉
 ---
-[<img src="https://github-readme-stats.vercel.app/api?username=wzst&show_icons=true&theme=bear" alt="Wzst's Stats" align="left" width="350" />](https://github.com/wzst)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzst&layout=compact&theme=bear" alt="Wzst's Stats" align="left" width="342" />](https://github.com/wzst)
+[<img src="https://github-readme-stats.vercel.app/api?username=wzst&show_icons=true&theme=bear" alt="Wzst's Stats" align="left" width="360" />](https://github.com/wzst)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzst&layout=compact&theme=bear" alt="Wzst's Stats" align="left" width="352" />](https://github.com/wzst)
