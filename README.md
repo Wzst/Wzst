@@ -13,7 +13,7 @@
 • Spotify 🎶
 ---
 
-[<img src="https://spotify-now-playing-vert-ten.vercel.app/api/spotify-playing" alt="Spotify Status" width="350" />](https://open.spotify.com/user/31lgiyxfb2udzhrepqgpfh5obkm4)
+[<img src="https://spotify-now-playing-iwzst.vercel.app/api/spotify-playing" alt="Spotify Status" width="350" />](https://open.spotify.com/user/31lgiyxfb2udzhrepqgpfh5obkm4)
 
 • GitHub Stats 🎉
 ---
