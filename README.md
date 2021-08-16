@@ -1,7 +1,7 @@
-# Wzst's README.md 👋
+# [Wzst's README.md](https://discord.gg/cqs7wgeg8P) 👋
 
 ![GitHub User's stars](https://img.shields.io/github/stars/wzst?label=Stars&logo=github)
-![Discord](https://img.shields.io/discord/834287971837411358?label=Discord&logo=discord)
+![Discord](https://img.shields.io/discord/876339668956893216?label=Discord&logo=discord)
 ![GitHub followers](https://img.shields.io/github/followers/wzst?label=Follow&logo=github)
 
 • About me ✨
